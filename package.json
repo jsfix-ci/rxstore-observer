@@ -38,7 +38,7 @@
   "dependencies": {
     "@abraham/reflection": "^0.8.0",
     "@babel/runtime": "^7.13.10",
-    "rxjs": "^6.6.6",
+    "rxjs": "^7.5.6",
     "typescript": "^4.2.3"
   },
   "devDependencies": {
